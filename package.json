@@ -56,11 +56,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devarshishimpi/SchoolHub.git"
+    "url": "git+https://github.com/Tochi-Onwuasoanya/SchoolHub.git"
   },
-  "author": "DVS Tech Labs",
+  "author": "Tochi Onwuasoanya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devarshishimpi/SchoolHub/issues"
+    "url": "https://github.com/Tochi-Onwuasoanya/SchoolHub/issues"
   }
 }
