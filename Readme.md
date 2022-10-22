@@ -4,7 +4,8 @@ Tech Stack:
 MongoDB,
 Expressjs,
 Reactjs,
-Nodejs
+Nodejs,
+Tailwind CSS
 
 Other smaller dependencies were used as well. Refer to the package.json to see them all. 
 
