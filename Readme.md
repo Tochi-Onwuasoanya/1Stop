@@ -1,4 +1,4 @@
-Project we made for DandyHacks
+Project we made for DandyHacks. Placed 2nd in the productivity track. 
 
 Tech Stack:
 MongoDB,
