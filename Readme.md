@@ -1,5 +1,5 @@
 # About
-Project we made for DandyHacks. Placed 2nd in the productivity track. 
+1stop is a web application that helps users take notes, create calendar events, and calculate their GPA. Users are also able to create and log in with an account.  This project was made as part DandyHacks (University of Rochester annual hackathon). Placed 2nd in the productivity track. 
 
 Tech Stack:
 MongoDB,
